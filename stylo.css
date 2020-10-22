@@ -1,0 +1,599 @@
+*{
+
+  margin:0;
+  padding: 0;
+
+}
+
+
+body{
+
+  background: #036;
+}
+header{
+
+max-width: 3000px;
+min-height: 130px;
+margin:0 auto;
+border-radius: 20px 20px 0 0;
+background: #ffffff;
+background: -moz-linear-gradient(top, #1f1f8f 3%, #ededed 13%, #cccccc 100% )
+background:-webkit-linear-gradient(top, #1f1f8f 3%, #ededed 13%, #cccccc 100% )
+background:linear-gradient(to bottom, #1f1f8f 3%, #ededed 13%, #cccccc 100% )
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#cccccc',GradientType=0);
+
+}
+
+#menu-h{
+  max-width: 1000px;
+  min-height: 50px;
+  background: #ff8000;
+  margin: 0 auto;
+}
+
+#menu-h ul {
+  list-style:none;
+  display: flex;
+  justify-content: center;
+}
+
+#menu-h a {
+  color: #fff;
+  display:block;
+  padding:20px;
+  text-decoration:none;
+  background:#ff8000;
+  font-family: arial;
+  font-size: 18px;
+}
+
+#menu-h a:hover {
+
+  background: #ffff00;
+}
+#menu-h ul ul {
+
+display:none;
+position: absolute;
+
+}
+
+#menu-h ul li:hover ul {
+  display:block;
+
+}
+
+
+
+
+
+
+#banner{
+  max-width: 1000px;
+  min-height: 250px;
+  background: #036;
+  margin:0 auto;
+}
+
+#contenedor {
+  max-width: 1000px;
+  min-height: 250px;
+  background: #444;
+  margin:0 auto;
+}
+
+aside{
+        float: left;
+        width:40%
+
+    }
+
+    #menu {
+      width: 90%;
+      background-image: url(../objetos/fondomenu.jpg);
+      border: 2px solid orange;
+      margin: 4%;
+      margin-top: 15px;
+      border-radius: 15px;
+  }
+  * {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: left;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+#menu h1 {
+    font: bold 1.5em verdana,arial;
+    padding: 0.3em 1em;
+    color: #663366;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#menu h2 a {
+    font: bold 0.9em verdana;
+    color: #495126;
+}
+#menu h2 a {
+    font: bold 1.1em verdana,arial,Helvetica;
+    color: #145333;
+    padding: 0.3em 1.5em;
+    display: block;
+}
+#menu a {
+    text-decoration: none;
+    color: #330099;
+    text-align: left;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#t1 {
+    position: relative;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+element.style {
+    display: none;
+}
+#tema1 {
+    position: absolute;
+    left: 95%;
+    top: -10px;
+    width: 230px;
+    background-image: url(../objetos/fondomenu.jpg);
+    border: 2px solid orange;
+    padding: 10px 0;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    display: none;
+    z-index: 1;
+    min-width: 250px;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+#t2 {
+    position: relative;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+#menu h2 a {
+    font: bold 0.9em verdana;
+    color: #495126;
+}
+#menu h2 a {
+    font: bold 1.1em verdana,arial,Helvetica;
+    color: #145333;
+    padding: 0.3em 1.5em;
+    display: block;
+}
+#menu a {
+    text-decoration: none;
+    color: #330099;
+    text-align: left;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+element.style {
+    display: none;
+}
+#tema2 {
+    position: absolute;
+    left: 95%;
+    top: -10px;
+    width: 230px;
+    background-image: url(../objetos/fondomenu.jpg);
+    border: 2px solid purple;
+    padding: 10px 0;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    display: none;
+    z-index: 1;
+    min-width: 250px;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+#t3 {
+    position: relative;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+element.style {
+    display: none;
+}
+#tema3 {
+    position: absolute;
+    left: 95%;
+    top: -10px;
+    width: 230px;
+    background-image: url(../objetos/fondomenu.jpg);
+    border: 2px solid purple;
+    padding: 10px 0;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    display: none;
+    z-index: 1;
+    min-width: 250px;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+#menu ul {
+    padding: 0.2em 0.5em;
+    margin: 0;
+}
+#menu ul {
+    padding: 0.1em 0.5em .1em 1.5em;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+element.style {
+}
+#t11 {
+    position: relative;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+}
+#menu li a {
+    color: #495126;
+}
+#menu li a {
+    font: bold 12px verdana;
+    color: #990099;
+    text-decoration: none;
+}
+#menu a {
+    text-decoration: none;
+    color: #330099;
+    text-align: left;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#menu li {
+    padding: 0.2em 2em;
+    list-style-position: inside;
+}
+#menu li {
+    list-style-type: square;
+    text-align: left;
+    padding: 2px 0px;
+    font: normal 12px verdana;
+}
+#tema11 li {
+    list-style-type: none;
+    text-indent: -2em;
+}
+
+li {
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    list-style-type: disc;
+}
+element.style {
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+element.style {
+}
+#menu {
+    width: 90%;
+    background-image: url(../objetos/fondomenu.jpg);
+    border: 2px solid orange;
+    margin: 4%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+element.style {
+    text-indent: 0;
+    font: normal 0.9em 'Comic Sans MS';
+    background-color: yellow;
+    margin: 1em;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+element.style {
+    text-decoration: none;
+    color: purple;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+Style Attribute {
+    text-indent: 0;
+    font: normal 0.9em 'Comic Sans MS';
+    background-color: yellow;
+    margin: 1em;
+}
+element.style {
+}
+#prin h2 {
+    font-size: 1.6em;
+    font-family: verdana;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding: 1em;
+    color: navy;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+element.style {
+}
+#prin h4 {
+    font: bold 1.2em arial;
+    text-align: left;
+    padding: 0.2em 2.5em;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+element.style {
+}
+#prin {
+    width: 98%;
+    float: left;
+    background-color: #ffffff;
+    margin: 15px 1%;
+    border: 3px double #ff8000;
+    border-radius: 20px;
+}
+* {
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font: normal 1em verdana;
+}
+
+div {
+    display: block;
+}
+element.style {
+    margin-left: 2%;
+}
+
+h2 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
